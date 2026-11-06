@@ -1,0 +1,9 @@
+.filter {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.25;
+  border-radius: 20px;
+  border: 1px black solid;
+  margin-bottom: 25px;
+}

@@ -1,0 +1,15 @@
+.count {
+  margin-bottom: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

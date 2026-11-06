@@ -1,0 +1,30 @@
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.item__name {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.item__number {
+  font-size: 16px;
+  line-height: 1.25;
+  text-decoration: solid underline;
+}
+
+.item__button {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+
+  background-color: red;
+  padding: 5px;
+  border-radius: 4px;
+  border: none;
+}
